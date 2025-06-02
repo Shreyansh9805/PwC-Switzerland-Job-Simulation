@@ -7,6 +7,7 @@
 ## 🖥️ View My Dashboards
 
 - **Call Centre Trends Dashboard:** [View Dashboard](https://app.powerbi.com/links/CK7pMvMlOP?ctid=49674e50-85af-4f8d-973a-02b51c2f5005&pbi_source=linkShare)
+![image](Call Centre Trends/Call Center Trends.png)
 - **Customer Retention Dashboards:** [View Dashboards](https://app.powerbi.com/links/GiCvYUqMJm?ctid=49674e50-85af-4f8d-973a-02b51c2f5005&pbi_source=linkShare) *(Multiple Dashboards)*
 - **Diversity & Inclusion Dashboards:** [View Dashboards](https://app.powerbi.com/links/bN8uxYL3Y2?ctid=49674e50-85af-4f8d-973a-02b51c2f5005&pbi_source=linkShare) *(Multiple Dashboards)*
 
